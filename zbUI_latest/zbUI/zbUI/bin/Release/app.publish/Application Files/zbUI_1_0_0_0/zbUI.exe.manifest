@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="zbUI.exe" version="1.0.0.0" publicKeyToken="b5729b5e0a8039c5" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="zbUI" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="zbUI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zbUI.exe" size="19968">
+      <assemblyIdentity name="zbUI" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>U6nBxE643pm/qNKwtz/wmv4QNJI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="alarm.wav" size="541690">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JotPCrJf7geOojYsZ8qJQOCZs7g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="profile.txt" size="107">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rmhRDeMJxyYYhODR/1UpP8QTKOA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=POWEMSYSPC412\admin" issuerKeyHash="6b52ad9d7a22dcba27859b2c9fe62cecae2e7108" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>bIZuOFhu0kJfNbBm0tY8h6KKvgo=</DigestValue></Reference></SignedInfo><SignatureValue>U4E8tj5Nik+e/KSiT721DlI99pPJ177AqUckJV5pibcGgYaUcxUh1BcnWASpkpOiyqtB05nOI+aC7fH28tpW1czqZIH/j4Gweh/V/Txu78062xxMWcTYnClnk6wow2xX/Qq6e+Kxa5jdkzZdKCodo/Fy/IClHMIs+gQdILiF2wI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vb7hC8aKFot/QbwGho/ARJ5o1Cs2AjWNhOxNfPE70rapFqnC5KB3v3WdEUGXnQ0/FW7wtxsq12HbU1dNRKlPImNUlXWD6WlJ079HMXEOOHzrYkVs2EvqNwxwyjd5ygmHp/rsaGGq++MJHWbppM1bxIsacQ9+79grcoOsy5GIngE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0abe8aa2873cd6d266b0355f42d26e58386e866c" Description="" Url=""><as:assemblyIdentity name="zbUI.exe" version="1.0.0.0" publicKeyToken="b5729b5e0a8039c5" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=POWEMSYSPC412\admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>yw7TVUL6N6A6yIPaGxZvRDGPyOU=</DigestValue></Reference></SignedInfo><SignatureValue>VPoIL2SWylYHFqMWH4am5x+BsyaA5iSnrR7oilXpQSyX18egHj03A4NtGN+yZMuwY4IO5Tu6fCHAbD0QRvbGCg2jyydaaO8QSjQXzdqlMF5WBcVq9utBYalcxC4AFITU/AkjE2v4AE4WVmr/FZIYZ+01Z8IoxTYdB0IQdz3ZU+c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vb7hC8aKFot/QbwGho/ARJ5o1Cs2AjWNhOxNfPE70rapFqnC5KB3v3WdEUGXnQ0/FW7wtxsq12HbU1dNRKlPImNUlXWD6WlJ079HMXEOOHzrYkVs2EvqNwxwyjd5ygmHp/rsaGGq++MJHWbppM1bxIsacQ9+79grcoOsy5GIngE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQJUkbTgtoIqxFiACPwBR2AjANBgkqhkiG9w0BAQUFADAxMS8wLQYDVQQDHiYAUABPAFcARQBNAFMAWQBTAFAAQwA0ADEAMgBcAGEAZABtAGkAbjAeFw0xMjAzMjYwNzM4MTZaFw0xMzAzMjYxMzM4MTZaMDExLzAtBgNVBAMeJgBQAE8AVwBFAE0AUwBZAFMAUABDADQAMQAyAFwAYQBkAG0AaQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9vuELxooWi39BvAaGj8BEnmjUKzYCNY2E7E188TvStqkWqcLkoHe/dZ0RQZedDT8VbvC3GyrXYdtTV01EqU8iY1SVdYPpaUnTv0cxcQ44fOtiRWzYS+o3DHDKN3nKCYen+uxoYar74wkdZumkzVvEixpxD37v2Ctyg6zLkYieAQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAEwg1Gpvq2QidBiOa2pTyQJVJlyg3BftsPzIal6ZKuJNHWa84r4s81koMJm8vEQh+V7WxUEtyJZvnezE6LF9+aT+imN7ZZj7Ao1bfkQYwMUE3Yj3uRYoFhrbrkc61fkuk1f3PT4idn8bBcXmv+NmxuCntG6OQvM4r+cOg8iyzSGo</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,58 @@
+J:\zbUI\zbUI\bin\Release\zbUI.exe
+J:\zbUI\zbUI\bin\Release\zbUI.pdb
+J:\zbUI\zbUI\obj\x86\Release\ResolveAssemblyReference.cache
+J:\zbUI\zbUI\obj\x86\Release\zbUI.Form1.resources
+J:\zbUI\zbUI\obj\x86\Release\zbUI.Properties.Resources.resources
+J:\zbUI\zbUI\obj\x86\Release\GenerateResource.read.1.tlog
+J:\zbUI\zbUI\obj\x86\Release\GenerateResource.write.1.tlog
+J:\zbUI\zbUI\obj\x86\Release\zbUI.exe
+J:\zbUI\zbUI\obj\x86\Release\zbUI.pdb
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.exe
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.pdb
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.Form1.resources
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.Properties.Resources.resources
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.exe
+D:\Documents and Settings\Admin\Desktop\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.pdb
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.exe.manifest
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.application
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.exe
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.pdb
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.Form1.resources
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.Properties.Resources.resources
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\GenerateResource.read.1.tlog
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\GenerateResource.write.1.tlog
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.exe.manifest
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.application
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.exe
+I:\Zigbee Project\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.pdb
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.exe
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.pdb
+K:\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.exe.manifest
+K:\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.application
+K:\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.exe
+K:\zbUI_latest\zbUI\zbUI\bin\Release\zbUI.pdb
+K:\zbUI_latest\zbUI\zbUI\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+K:\zbUI_latest\zbUI\zbUI\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+K:\zbUI_latest\zbUI\zbUI\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.dll
+K:\zbUI_latest\zbUI\zbUI\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.dll
+K:\zbUI_latest\zbUI\zbUI\bin\Release\WPFToolkit.dll
+K:\zbUI_latest\zbUI\zbUI\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+K:\zbUI_latest\zbUI\zbUI\bin\Release\Microsoft.Windows.Design.Interaction.dll
+K:\zbUI_latest\zbUI\zbUI\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+K:\zbUI_latest\zbUI\zbUI\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+K:\zbUI_latest\zbUI\zbUI\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.pdb
+K:\zbUI_latest\zbUI\zbUI\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.pdb
+K:\zbUI_latest\zbUI\zbUI\bin\Release\WPFToolkit.pdb
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\ResolveAssemblyReference.cache
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.Form1.resources
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.Properties.Resources.resources
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\GenerateResource.read.1.tlog
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\GenerateResource.write.1.tlog
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.exe.manifest
+K:\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.application
+G:\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.exe
+G:\zbUI_latest\zbUI\zbUI\obj\x86\Release\zbUI.pdb

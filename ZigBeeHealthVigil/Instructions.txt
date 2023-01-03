@@ -1,0 +1,5 @@
+Step 1 : Install .NET 4.0 Framework (size ~50MB)
+Step 2 : Install ZbUi Application
+Step 3 : Copy and Paste Alarm.wav in C: directory (only C , not any other folder)
+
+Run the Application!
